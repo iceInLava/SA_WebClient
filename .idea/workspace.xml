@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d35ee30d-41ab-4f03-b70a-3de864d77fd7" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/JAX_WS_Apache_Axis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SA_WebClient.iml" afterDir="false" />
+    <list default="true" id="d35ee30d-41ab-4f03-b70a-3de864d77fd7" name="更改" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/Client/MobileClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/com/webxml/ArrayOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/com/webxml/GetDatabaseInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/com/webxml/GetDatabaseInfoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/com/webxml/GetMobileCodeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/com/webxml/GetMobileCodeInfoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/com/webxml/MobileCodeWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/com/webxml/MobileCodeWSSoap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/com/webxml/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/com/webxml/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SA_WebClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SA_WebClient.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +52,43 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Learning/软件体系结构/Lab/WebClient/SA_WebClient/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
+    "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.25768822",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learning\软件体系结构\Lab\WebClient\SA_WebClient\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MobileClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.MobileClientTest" />
+      <module name="SA_WebClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MobileClientTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -60,11 +97,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700461556090</updated>
-      <workItem from="1700461557259" duration="2079000" />
+      <workItem from="1700461557259" duration="2390000" />
+      <workItem from="1700463960736" duration="1426000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1700463683335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700463683335</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
